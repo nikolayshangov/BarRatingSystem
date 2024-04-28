@@ -86,7 +86,7 @@ try
 
 ## Creator
 ##### Copyright © 2024 Nikolay Shangov
-###### Note: Template is from <a href="https://github.com/nikolayshangov/runclubmanager">[My Course Project (Nikolay Shangov - RunClubManager for Module 13 - "Software Engineering")]</a>
+###### Note: Template is from <a href="https://github.com/nikolayshangov/runclubmanager">My Course Project (Nikolay Shangov - RunClubManager for Module 13 - "Software Engineering")</a>
 
 ## License
 ##### BarRatingSystem is distributed under the MIT License, see the text file LICENSE for more details.
