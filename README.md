@@ -9,7 +9,7 @@
 ##### This application is capable of adding bars with specific image, place and type. Registered users can edit their own profiles, create bars or edit/delete their own ones and see bars of other managers. Unregistered users can see registered managers' bars. The project relies on external service providers, it is accessing them via their API which requires authentication, the application won't be fully functional without them.
 
 ## Installation
-##### - Download RunClubManager.dacpac <a href="https://github.com/nikolayshangov/barratingsystem/blob/master/CustomDatabase/BarRatingSystem.dacpac">[from BarRatingSystem's GitHub Repository]</a>
+##### - Download BarRatingSystem.dacpac <a href="https://github.com/nikolayshangov/barratingsystem/blob/master/CustomDatabase/BarRatingSystem.dacpac">[from BarRatingSystem's GitHub Repository]</a>
 ##### - Start Visual Studio and open SQL Server Object Explorer.
 ##### - Locate your SQL Server Instance and expand it to Databases then right-click, press Publish Data-tier Application.
 ##### - Select BarRatingSystem.dacpac, make sure Database Name, Publish Script Name are called BarRatingSystem, then click on Publish.
