@@ -66,6 +66,8 @@ try
 ![image](https://github.com/nikolayshangov/barratingsystem/assets/100240526/3a1ace99-5355-4635-bdd4-adbb2abd8fc9)
 ##### - Bars (Logged out)
 ![image](https://github.com/nikolayshangov/barratingsystem/assets/100240526/b4d81f3c-f146-4f57-8071-90322291887e)
+##### - Bar Details (Logged out)
+![image](https://github.com/nikolayshangov/barratingsystem/assets/100240526/b9fdebfa-8b09-4a1b-8676-f38174c52b9c)
 ##### - Register (Logged out)
 ![image](https://github.com/nikolayshangov/barratingsystem/assets/100240526/bc9bed54-72f5-4a81-b2f9-3ec30a67fc91)
 ##### - Login (Logged out)
